@@ -1,9 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32106.194
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModTemplate", "ModTemplate\ModTemplate.csproj", "{FE171A37-9DAF-403C-A3CC-6D892FCFC91E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BreakerRecharge", "BreakerRecharge\BreakerRecharge.csproj", "{FE171A37-9DAF-403C-A3CC-6D892FCFC91E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,3 +23,4 @@ Global
 		SolutionGuid = {49F68916-8D63-4527-B2D3-FD94EC99D3B4}
 	EndGlobalSection
 EndGlobal
+

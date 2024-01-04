@@ -27,11 +27,11 @@
 !assets/
 
 
-### ModTemplate Project
-!ModTemplate/
-!ModTemplate.sln
-ModTemplate/[Bb]in/
-ModTemplate/[Oo]bj/
+### BreakerRecharge Project
+!BreakerRecharge/
+!BreakerRecharge.sln
+BreakerRecharge/[Bb]in/
+BreakerRecharge/[Oo]bj/
 
 # Explicit exceptions/ignores
 **.user

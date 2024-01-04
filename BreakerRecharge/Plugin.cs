@@ -1,8 +1,8 @@
-﻿using BepInEx;
+using BepInEx;
 using HarmonyLib;
 using System.Reflection;
 
-namespace SpyciBot.LC.ModTemplate
+namespace SpyciBot.LC.BreakerRecharge
 {
     [BepInPlugin(PluginInfo.PLUGIN_GUID, PluginInfo.PLUGIN_NAME, PluginInfo.PLUGIN_VERSION)]
     public class Plugin : BaseUnityPlugin
@@ -15,3 +15,4 @@ namespace SpyciBot.LC.ModTemplate
         }
     }
 }
+
